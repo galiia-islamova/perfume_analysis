@@ -1,0 +1,36 @@
+supplier_id,supplier_name,country,contact_email
+1,Creed Official,USA,info@creed-official.com
+2,LVMH Group,France,info@lvmn.com
+3,Estee Lauder Companies,USA,info@esteelauder-companies.com
+4,Manzanita Capital,UK,info@manzanitacapital.com
+5,Puig,Spain,info@puig.com
+6,Tom Ford Beauty Official,USA,info@tomford-official.com
+7,L’Oreal Luxe,France,info@lorealluxe.com
+8,Chanel Official,USA,info@chanel-official.com
+9,Hermes International,France,info@hermes-international.com
+10,Art & Chemistry Ltd.,UK,info@artchemistry.com
+11,Christian Dior Official,USA,info@dior-official.com
+12,Giorgio Armani Beauty Official,USA,info@armani-official.com
+13,YSL Beauty Official,USA,info@ysl-official.com
+14,Versace Official,USA,info@versace-official.com
+15,Paco Rabanne Official,USA,info@pacorabanne-official.com
+16,Prada Official,USA,info@prada-official.com
+17,Viktor & Rolf Official,Netherlands,info@viktorrolf-official.com
+18,Jean Paul Gaultier Official,France,info@jeanpaulgaultier-official.com
+19,Burberry Official,UK,info@burberry-official.com
+20,Azzaro Official,France,info@azzaro-official.com
+21,Montblanc Official,Germany,info@montblanc-official.com
+22,Gucci Official,Italy,info@gucci-official.com
+23,Givenchy Official,France,info@givenchy-official.com
+24,Ralph Lauren Official,USA,info@ralphlauren-official.com
+25,Hugo Boss Official,Germany,info@hugoboss-official.com
+26,"Shiseido Company, Ltd.",Japan,info@shiseido-comp.com
+27,Shiseido Group,Japan,info@shiseido-group.com
+28,Coty Inc.,USA,info@coty.com
+29,Inter Parfums Inc.,USA,info@interparfums.com
+30,Revlon Inc.,USA,info@revlon.com
+31,Inter Parfums UK Ltd.,UK,info@interparfums-uk.com
+32,Lalique Group SA,Switzerland,info@lalique-group.com
+33,Sterling Perfumes Industries LLC,UAE,info@sterlingperfumes.com
+34,Inter Parfums SA,France,info@interparfums-fr.com
+35,Beaute Prestige International,Japan,info@beauteprestige-international.com

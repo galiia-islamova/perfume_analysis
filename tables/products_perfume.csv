@@ -1,0 +1,101 @@
+perfume_id,perfume_name,brand,category,price,supplier_id
+1,Sauvage,Dior,Eau de Toilette,155,11
+2,Neroli Portofino,Tom Ford,Eau de Parfum,250,6
+3,Allure Homme Sport,Chanel,Eau de Toilette,150,8
+4,The One for Men,Dolce & Gabbana,Eau de Parfum,130,27
+5,Bal d’Afrique,Byredo,Eau de Parfum,180,5
+6,L’Eau d’Issey Pour Homme,Issey Miyake,Eau de Toilette,110,26
+7,L’Homme,Prada,Eau de Toilette,135,16
+8,1 Million,Paco Rabanne,Eau de Toilette,120,15
+9,Very Good Girl,Carolina Herrera,Eau de Parfum,138,5
+10,La Nuit de L’Homme,Yves Saint Laurent,Eau de Toilette,140,13
+11,Wood Sage & Sea Salt,Jo Malone,Cologne,140,3
+12,Rose Gold,Tiffany & Co.,Eau de Parfum,150,28
+13,Orange Sanguine,Atelier Cologne,Eau de Cologne,140,7
+14,Philosykos,Diptyque,Eau de Parfum,130,4
+15,J’adore,Dior,Eau de Parfum,150,11
+16,Hero,Burberry,Eau de Parfum,150,19
+17,La Nuit de L’Homme,Yves Saint Laurent,Eau de Toilette,140,13
+18,Fierce,Abercrombie & Fitch,Eau de Parfum,120,29
+19,Sauvage,Dior,Eau de Toilette,155,11
+20,Daisy,Marc Jacobs,Eau de Toilette,110,28
+21,Idole,Lancome,Eau de Parfum,135,7
+22,Bad Boy,Carolina Herrera,Eau de Toilette,135,5
+23,Peony & Blush Suede,Jo Malone,Cologne,155,3
+24,Fierce,Abercrombie & Fitch,Eau de Parfum,120,29
+25,Acqua di Gio,Giorgio Armani,Eau de Toilette,130,12
+26,Donna Born in Roma,Valentino,Eau de Parfum,138,7
+27,J’adore,Dior,Eau de Parfum,150,11
+28,Allure Homme Sport,Chanel,Eau de Toilette,150,8
+29,Mon Guerlain,Guerlain,Eau de Parfum,150,2
+30,Icon,Dunhill,Eau de Parfum,120,31
+31,Artisan,John Varvatos,Eau de Toilette,120,30
+32,Le Male,Jean Paul Gaultier,Eau de Toilette,120,18
+33,Eau Rose,Diptyque,Eau de Parfum,130,4
+34,Terre d’Hermes,Hermes,Eau de Toilette,150,9
+35,Good Girl,Carolina Herrera,Eau de Parfum,138,5
+36,Boss Bottled,Hugo Boss,Eau de Toilette,120,25
+37,Eau Rose,Diptyque,Eau de Parfum,130,4
+38,Elie Saab Le Parfum,Elie Saab,Eau de Parfum,120,35
+39,Philosykos,Diptyque,Eau de Parfum,130,4
+40,Bright Crystal,Versace,Eau de Toilette,110,14
+41,Rose Gold,Tiffany & Co.,Eau de Parfum,150,28
+42,Y,Yves Saint Laurent,Eau de Parfum,150,13
+43,Les Exclusifs de Chanel 31 Rue Cambon,Chanel,Eau de Parfum,250,8
+44,Scandal,Jean Paul Gaultier,Eau de Parfum,130,18
+45,Hero,Burberry,Eau de Parfum,150,19
+46,Explorer,Montblanc,Eau de Parfum,120,21
+47,Miss Dior,Dior,Eau de Parfum,150,11
+48,My Way,Giorgio Armani,Eau de Parfum,135,12
+49,Bentley for Men Intense,Bentley,Eau de Parfum,130,32
+50,Replica Jazz Club,Maison Margiela,Eau de Toilette,135,7
+51,Y,Yves Saint Laurent,Eau de Parfum,150,13
+52,Jimmy Choo Eau de Parfum,Jimmy Choo,Eau de Parfum,130,29
+53,Gypsy Water,Byredo,Eau de Parfum,180,5
+54,The One,Dolce & Gabbana,Eau de Parfum,130,27
+55,Y,Yves Saint Laurent,Eau de Parfum,150,13
+56,Replica – By the Fireplace,Maison Margiela,Eau de Toilette,160,7
+57,Fahrenheit,Dior,Eau de Toilette,130,11
+58,Oud Wood,Tom Ford,Eau de Parfum,280,6
+59,Orange Sanguine,Atelier Cologne,Eau de Cologne,140,7
+60,Donna Born in Roma,Valentino,Eau de Parfum,138,7
+61,Peony & Blush Suede,Jo Malone,Cologne,155,3
+62,Libre,Yves Saint Laurent,Eau de Parfum,140,13
+63,Gucci Guilty Pour Homme,Gucci,Eau de Toilette,130,22
+64,Her,Burberry,Eau de Parfum,135,19
+65,Miss Dior,Dior,Eau de Parfum,150,11
+66,A*Men,Mugler,Eau de Toilette,120,7
+67,Man in Black,Bvlgari,Eau de Parfum,140,2
+68,Bright Crystal,Versace,Eau de Toilette,110,14
+69,Chloe Eau de Parfum,Chloe,Eau de Parfum,150,28
+70,Un Jardin Sur Le Nil,Hermes,Eau de Toilette,150,9
+71,Beautiful,Estee Lauder,Eau de Parfum,120,3
+72,Fahrenheit,Dior,Eau de Toilette,130,11
+73,La Vie Est Belle,Lancome,Eau de Parfum,135,7
+74,Explorer,Montblanc,Eau de Parfum,120,21
+75,Neroli Portofino,Tom Ford,Eau de Parfum,250,6
+76,L’Interdit,Givenchy,Eau de Parfum,138,23
+77,Wood Sage & Sea Salt,Jo Malone,Cologne,140,3
+78,Replica Jazz Club,Maison Margiela,Eau de Toilette,135,7
+79,Gypsy Water,Byredo,Eau de Parfum,180,5
+80,Polo Blue,Ralph Lauren,Eau de Toilette,120,24
+81,Fahrenheit,Dior,Eau de Toilette,130,11
+82,Spicebomb,Viktor & Rolf,Eau de Toilette,135,17
+83,Wood Sage & Sea Salt,Jo Malone,Cologne,140,3
+84,Eros,Versace,Eau de Toilette,130,14
+85,Omnia Crystalline,Bvlgari,Eau de Toilette,110,2
+86,English Pear & Freesia,Jo Malone,Cologne,140,3
+87,L’Eau d’Issey Pour Homme,Issey Miyake,Eau de Toilette,110,26
+88,Blanc,Lacoste,Eau de Toilette,100,34
+89,Paradoxe,Prada,Eau de Parfum,150,16
+90,Neroli Portofino,Tom Ford,Eau de Parfum,250,6
+91,Neroli Portofino,Tom Ford,Eau de Parfum,250,6
+92,Terre d’Hermes,Hermes,Eau de Toilette,150,9
+93,L’Interdit,Givenchy,Eau de Parfum,138,23
+94,Black Opium,Yves Saint Laurent,Eau de Parfum,135,13
+95,Bloom,Gucci,Eau de Parfum,139,22
+96,Nomade,Chloe,Eau de Parfum,150,28
+97,My Way,Giorgio Armani,Eau de Parfum,135,12
+98,Rose Gold,Tiffany & Co.,Eau de Parfum,150,28
+99,Gucci Guilty Pour Homme,Gucci,Eau de Toilette,130,22
+100,Black Orchid,Tom Ford,Eau de Parfum,180,6
