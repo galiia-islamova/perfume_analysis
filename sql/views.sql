@@ -2,20 +2,20 @@
 -- 1. full view
 -----------------
 create or replace view perfume.viewbi_perfume_shop_main as
-select s.sale_id, s.sale_date, p.perfume_id, p.perfume_name, p.brand_name,
+select s.sale_id, s.sale_date, p.perfume_id, p.perfume_name, p.brand,
 p.category, p.price, i.stock_quantity, i.reorder_level,
 sp.supplier_id, sp.supplier_name, sp.country as supplier_country
 from perfume.sales s
 join perfume.perfumes p using (perfume_id)
 join perfume.inventory i using(perfume_id)
-join perfume.suppliers sp using(supplier_id)*/
+join perfume.suppliers sp using(supplier_id)
 
 -------------------------------------
 -- 2. ABC classification by perfume
 -------------------------------------
 create or replace view perfume.viewbi_abc_classification as
 with revenue as (
-select p.perfume_id, p.perfume_name, p.brand_name
+select p.perfume_id, p.perfume_name, p.brand,
 sum(1 * coalesce(p.price,0)) as total_revenue 
 from perfume.sales s
 join perfume.perfumes p using(perfume_id)
@@ -43,20 +43,20 @@ order by total_revenue desc;
 -------------------------------------
 create or replace view perfume.viewbi_abc_classification as
 with revenue as (
-select  p.brand_name,
+select  p.brand,
 sum(1 * coalesce(p.price,0)) as total_revenue 
 from perfume.sales s
 join perfume.perfumes p using(perfume_id)
-group by  p.brand_name
+group by  p.brand
 ),
 ranked as (
-select  brand_name, total_revenue,
+select  brand, total_revenue,
 total_revenue::numeric / sum(total_revenue) over() as revenue_share,
 sum(total_revenue) over (order by total_revenue desc rows between unbounded preceding and current row) /
 sum(total_revenue) over () as cumulative_share
 from revenue
 )
-select  brand_name, total_revenue, revenue_share,
+select  brand, total_revenue, revenue_share,
 cumulative_share,
 case
 when cumulative_share <= 0.5 then 'A'
