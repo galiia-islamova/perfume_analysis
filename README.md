@@ -15,6 +15,7 @@ This project analyzes a mock dataset of a perfume shop, identify stock issues, r
     - products.csv
     - suppliers.csv
     - sales.csv
+    - full_clea_data.csv (created after ETL in Python)
   - ### notebooks
     - etl.ipynb
     - eda.ipynb
