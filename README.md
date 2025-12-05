@@ -1,3 +1,6 @@
+[README на русском](./ru-README.md)
+
+
 # Perfume Shop Analysis
 
 ## 1. Description
