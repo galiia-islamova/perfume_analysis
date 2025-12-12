@@ -158,8 +158,8 @@
 - Месяцы с самым высоким доходом: февраль ($62,984), июнь ($64,806); с самым низким доходом: январь ($8,706), август ($45,572)
 - ABC классификация: 
     - бренды класса A, такие как:  Yves Saint Laurent, Tom Ford, Jo Malone, Dior, Diptyque - обеспечивают большую часть дохода.
-    - бренды класса B, такие как: Chloe, Bvlgary, Givenchy, Tiffany&Co., Chanel - вносят вклад в общий доход постоянно, но не активно.
-    - бренды класса C, такие как: Guerlain, Dunhill, Ralph Lauren, Estee Lauder, Hugo Boss
+    - бренды класса B, такие как: Chloe, Bvlgary, Givenchy, Tiffany&Co., Chanel - вносят вклад в общий доход на постоянной основе, но не более 15-20% от общего дохода.
+    - бренды класса C, такие как: Guerlain, Dunhill, Ralph Lauren, Estee Lauder, Hugo Boss - оставшийся доход. 
 
  ### 7.3 SQL результаты
 Полученные таблицы:
