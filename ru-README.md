@@ -170,7 +170,7 @@
 - Классификация типов движений (movement classification)
 - эффективность поставщиков (supplier performance)
 - топ 10 самых медленно продающихся парфюмов (top 10 slowest sellers)
-- предполагаемы оборот запасов (estimated inventory turnover)
+- предполагаемый оборот запасов (estimated inventory turnover)
 
   ## 8. Автор
 
